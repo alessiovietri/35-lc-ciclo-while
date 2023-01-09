@@ -36,6 +36,8 @@ do {
 
     ageWhile = parseInt(prompt('Inserisci la tua età'));
 
+    console.log('ageWhile', ageWhile, typeof ageWhile);
+
 } while (isNaN(ageWhile));
 
 alert('La tua età è: ' + ageWhile);
