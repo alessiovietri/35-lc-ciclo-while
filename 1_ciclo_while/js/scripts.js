@@ -13,6 +13,7 @@ for (let i = 1; i <= 10; i++) {
 
 // Soluzione con ciclo while
 // SOLUZIONE 1
+// CORRETTA
 let j = 1;  //     1   => cont
 while (j <= 10) {  //     2   => cond perm
 
